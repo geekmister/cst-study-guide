@@ -1,2 +1,2 @@
 # cse-study-guide
-Computer sicence study guide
+Computer sicence engineeering study guide
